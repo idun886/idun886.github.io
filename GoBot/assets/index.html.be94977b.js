@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as a,a as e,b as o}from"./app.befa7adb.js";const d={},n=e("h1",{id:"cqcode",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#cqcode","aria-hidden":"true"},"#"),o(" CQCode")],-1),r=[n];function s(_,i){return t(),a("div",null,r)}const l=c(d,[["render",s],["__file","index.html.vue"]]);export{l as default};

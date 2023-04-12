@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as n}from"./app.befa7adb.js";const o={},r=e("h1",{id:"api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#api","aria-hidden":"true"},"#"),n(" API")],-1),s=[r];function _(d,i){return t(),c("div",null,s)}const l=a(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
